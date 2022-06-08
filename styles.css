@@ -1,1 +1,27 @@
-/* Copy and paste your CSS from CodePen into here */
+body{background-image: url('https://cdn.pixabay.com/photo/2016/03/27/07/32/clouds-1282314_960_720.jpg');
+  background-size:cover;
+  }  
+#title {
+  text-align: center;
+   font-size: 50px;
+}
+#subtitle
+{
+  text-align: center;
+   font-size: 30px;
+}
+  #image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info
+{
+  text-alin: center;
+}
+</style>
